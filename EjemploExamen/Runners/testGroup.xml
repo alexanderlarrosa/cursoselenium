@@ -1,0 +1,7 @@
+<suite name="EjemploExamen">
+    <test name="Test Booking">
+        <classes>
+            <class name="EjemploExamen.PruebaBooking"></class>
+        </classes>
+    </test>
+</suite>
