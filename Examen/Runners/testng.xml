@@ -1,0 +1,7 @@
+<suite name="Examen">
+    <test name="Test Netflix">
+        <classes>
+            <class name="Examen.prueba_netflix"></class>
+        </classes>
+    </test>
+</suite>
